@@ -2,7 +2,7 @@
     {
       "id":1,
       "word":"milk",
-      "image":"",
+      "image":"https://raw.githubusercontent.com/jbarog/vocabulary-assets/main/images/milk.png",
       "tags":[
         "food",
         "white",
